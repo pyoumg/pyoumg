@@ -1,6 +1,6 @@
 ### Hi there 👋 
 📫 How to reach me: <a href="https://www.instagram.com/seyoung_sma/">instagram</a>, <a href='https://kumonoueno.tistory.com/'>tistory</a>, <a href="https://www.youtube.com/channel/UCzyO5uf46lBTRCxSPuG46QQ">youtube</a><br>
-🌱 I’m currently learning django and python!
+
 
 <!--
 **pyoumg/pyoumg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
