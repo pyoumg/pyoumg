@@ -1,7 +1,8 @@
 ### Hi there 👋 
 📫 How to reach me: <a href="https://www.instagram.com/seyoung_sma/">instagram</a>, <a href='https://kumonoueno.tistory.com/'>tistory</a><br>
-😄 Pronouns: she/her <br>
-![window_icon](https://user-images.githubusercontent.com/50650579/203566333-8746293d-18df-443f-b271-f326e543b031.png)
+😄 Pronouns: she/her <br><br>
+![2](https://user-images.githubusercontent.com/50650579/209510188-ec0795b9-ac30-4208-9ca2-c23ce38b9625.gif)
+
 <!--
 **pyoumg/pyoumg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
