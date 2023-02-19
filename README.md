@@ -1,6 +1,7 @@
-### Hi there 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21A3CC&width=435&lines=Hi%2C+I'm+Seyoung%F0%9F%8E%A7)](https://git.io/typing-svg)
+<br>
 📫 How to reach me: <a href="https://www.instagram.com/seyoung_sma/">instagram</a>, <a href='https://kumonoueno.tistory.com/'>tistory</a><br>
-😄 Pronouns: she/her <br><br>
+😄 Pronouns: she / her <br><br>
 ![2](https://user-images.githubusercontent.com/50650579/209510188-ec0795b9-ac30-4208-9ca2-c23ce38b9625.gif)
 
 <!--
