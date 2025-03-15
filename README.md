@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21A3CC&width=435&lines=Hi%2C+I'm+Seyoung%F0%9F%8E%A7)](https://git.io/typing-svg)
 
  
-<img src="https://github.com/user-attachments/assets/45263bd7-1e14-43fd-990b-4d225a4da1d9" width="30%">  
+<img src="![image](https://github.com/user-attachments/assets/ed93baac-0049-4b58-bdfc-2e719d593e09)" width="30%">  
 
 I'm a **backend developer** currently diving into **Spring** and **cloud technologies**.
 
