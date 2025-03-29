@@ -17,6 +17,9 @@ I'm a **backend developer** currently diving into **Spring** and **cloud technol
 <a href="https://www.credly.com/badges/f8d16afb-6270-4441-bbbe-1de824377e12/embedded">
   <img width="100" src="https://user-images.githubusercontent.com/50650579/220501069-dd83338f-be52-41fb-ba5f-21a5543e851e.png">
 </a>  
+<a href="https://www.credly.com/badges/f6fae7c7-9742-4b55-a91a-b710b311e54f/public_url">
+  <img width="100" src="https://github.com/user-attachments/assets/bc26519c-3c8a-4dab-b2cf-93ef866896c2">
+</a> 
 
 
 <!--
