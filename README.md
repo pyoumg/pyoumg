@@ -21,5 +21,7 @@ I'm a **backend developer** currently diving into **Spring** and **cloud technol
 <a href="https://www.credly.com/badges/f6fae7c7-9742-4b55-a91a-b710b311e54f/public_url">
   <img width="100" src="https://github.com/user-attachments/assets/bc26519c-3c8a-4dab-b2cf-93ef866896c2">
 </a> 
-
+<a href="https://www.credly.com/badges/13823e7b-0037-40e9-b2d0-8f6af75c36a0/public_url">
+  <img width="100" src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+</a> 
 
